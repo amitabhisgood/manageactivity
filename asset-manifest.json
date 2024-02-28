@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amitabhisgood/manageactivity/static/css/main.e0720557.css",
+    "main.js": "/amitabhisgood/manageactivity/static/js/main.d4213aea.js",
+    "static/js/453.d56a20d1.chunk.js": "/amitabhisgood/manageactivity/static/js/453.d56a20d1.chunk.js",
+    "index.html": "/amitabhisgood/manageactivity/index.html",
+    "main.e0720557.css.map": "/amitabhisgood/manageactivity/static/css/main.e0720557.css.map",
+    "main.d4213aea.js.map": "/amitabhisgood/manageactivity/static/js/main.d4213aea.js.map",
+    "453.d56a20d1.chunk.js.map": "/amitabhisgood/manageactivity/static/js/453.d56a20d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0720557.css",
+    "static/js/main.d4213aea.js"
+  ]
+}
